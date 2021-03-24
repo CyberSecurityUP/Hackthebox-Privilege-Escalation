@@ -1,3 +1,3 @@
 # Hackthebox-Privilege-Escalation
 
-###Privilege Escalation Techniques
+## Privilege Escalation Techniques
